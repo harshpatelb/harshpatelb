@@ -32,8 +32,8 @@ class HarshkumarPatel:
         "Visualization": ["Power BI", "Tableau", "Excel (Advanced)", "KPI Reporting", "Data Storytelling"],
         "Languages"    : ["Python (Pandas, NumPy)", "SQL (CTEs, Window Functions, Joins)", "Java"],
         "Databases"    : ["MySQL", "PostgreSQL", "Snowflake"],
-        "Engineering"  : ["ETL/ELT", "PySpark", "dbt", "Databricks (Medallion Architecture)", "Data Modeling"],
-        "DevOps"       : ["Git", "GitHub Actions", "Docker", "Jira",
+        "Engineering"  : ["ETL/ELT", "PySpark", "dbt", "Databricks (Medallion Architecture)", "Data Modeling", "Azure"],
+        "DevOps"       : ["Git", "GitHub", "GitHub Actions", "Docker", "Jira",
                           "Agile/Scrum", "Requirements Gathering", "Stakeholder Management"],
     }
 
@@ -62,16 +62,28 @@ class HarshkumarPatel:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
-### Data Engineering
+### Data Engineering & Cloud
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Tools & Practices
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white)
+
+### Also Skilled In
+![Requirements Gathering](https://img.shields.io/badge/-Requirements%20Gathering-2C5364?style=flat-square)
+![Stakeholder Management](https://img.shields.io/badge/-Stakeholder%20Management-2C5364?style=flat-square)
+![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-2C5364?style=flat-square)
+![Medallion Architecture](https://img.shields.io/badge/-Medallion%20Architecture-2C5364?style=flat-square)
+![Dashboard Development](https://img.shields.io/badge/-Dashboard%20Development-2C5364?style=flat-square)
+![KPI Reporting](https://img.shields.io/badge/-KPI%20Reporting-2C5364?style=flat-square)
+![Data Storytelling](https://img.shields.io/badge/-Data%20Storytelling-2C5364?style=flat-square)
 
 </div>
 
