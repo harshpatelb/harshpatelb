@@ -1,16 +1,18 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Harshkumar%20Patel&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Engineer%20%7C%20BI%20Developer&descAlignY=58&descColor=64B5F6&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Harshkumar%20Patel&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Developer&descAlignY=58&descColor=64B5F6&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=64B5F6&center=true&vCenter=true&width=600&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Databricks;ETL+Pipelines+%7C+Data+Warehousing;Turning+Raw+Data+into+Business+Insights+%F0%9F%93%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=64B5F6&center=true&vCenter=true&width=650&lines=SQL+%7C+Power+BI+%7C+Tableau+%7C+Python;Dashboards+%7C+KPI+Reporting+%7C+Data+Storytelling;Turning+Raw+Data+into+Business+Insights)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshpatel-in)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshpatel.24.work@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshpatelb)
+[![Portfolio](https://img.shields.io/badge/Portfolio-64B5F6?style=for-the-badge&logo=firefox&logoColor=white)](https://theharshpatel.in)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patel97c@uwindsor.ca)
 [![University of Windsor](https://img.shields.io/badge/UWindsor-002D62?style=for-the-badge&logo=academia&logoColor=white)](https://www.uwindsor.ca)
 
 </div>
@@ -21,22 +23,22 @@
 
 ```python
 class HarshkumarPatel:
-    location   = "Windsor, Ontario, Canada 🍁"
+    location   = "Windsor / Toronto, Ontario, Canada"
     degree     = "Master of Applied Computing @ University of Windsor (GPA: 8.1/10)"
-    status     = "Seeking Data Analyst / Data Engineer roles"
+    status     = "Seeking Data Analyst / BI Developer roles"
     passion    = "Transforming raw data into decisions that matter"
 
     skills = {
-        "Languages"    : ["Python (Pandas, NumPy)", "SQL (Advanced)", "Java"],
-        "Engineering"  : ["ETL/ELT", "PySpark", "dbt", "Databricks", "Snowflake",
-                          "Delta Lake", "Apache Airflow", "AWS S3"],
+        "Visualization": ["Power BI", "Tableau", "Excel (Advanced)", "KPI Reporting", "Data Storytelling"],
+        "Languages"    : ["Python (Pandas, NumPy)", "SQL (CTEs, Window Functions, Joins)", "Java"],
         "Databases"    : ["MySQL", "PostgreSQL", "Snowflake"],
-        "Visualization": ["Power BI", "Tableau", "Excel (Advanced)"],
-        "DevOps"       : ["Git", "GitHub Actions", "Docker", "Jira", "Agile/Scrum"],
+        "Engineering"  : ["ETL/ELT", "PySpark", "dbt", "Databricks (Medallion Architecture)", "Data Modeling"],
+        "DevOps"       : ["Git", "GitHub Actions", "Docker", "Jira",
+                          "Agile/Scrum", "Requirements Gathering", "Stakeholder Management"],
     }
 
     def current_goal(self):
-        return "Build scalable data pipelines & deliver insights that drive action 🚀"
+        return "Build dashboards & deliver insights that drive action"
 ```
 
 ---
@@ -45,30 +47,27 @@ class HarshkumarPatel:
 
 <div align="center">
 
-### 🐍 Languages & Query
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### ⚙️ Data Engineering
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge&logo=databricks&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📈 Visualization & BI
+### Visualization & BI
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### 🔧 Tools & Practices
+### Languages & Query
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Databases & Platforms
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+### Data Engineering
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+
+### Tools & Practices
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -84,24 +83,22 @@ class HarshkumarPatel:
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 Digital Cruze — Data Science Intern
-**📅 Jan 2024 – Apr 2024 | Vadodara, India**
+### Digital Cruze — Data Science Intern
+**Jan 2024 – Apr 2024**
 
-- ⚡ Automated ETL workflows in Python & SQL — **cut report time from 4 hrs → 30 min**
-- 🔧 Optimized **5+ SQL pipelines** via CTE refactoring → **~35% faster query runtime**
-- 📊 Delivered **3 Power BI dashboards** enabling daily KPI tracking across 2 Agile sprints
-- 🔁 Implemented Git version control ensuring **100% pipeline reproducibility**
+- Gathered and documented data requirements from stakeholders to design Python-based ETL workflows, reducing manual effort by **40%** and cutting report turnaround from 4 hours to under 30 minutes
+- Refactored SQL queries using CTEs and query restructuring, improving data extraction performance by **50%**
+- Partnered with cross-functional teams to translate business needs into interactive Power BI and Excel dashboards, automating report generation
 
 </td>
 <td width="50%" valign="top">
 
-### 🏢 Brainy Beam Pvt. Ltd. — DS & ML Intern
-**📅 Jul 2023 – Aug 2023 | India**
+### Brainy Beam Pvt. Ltd. — Data Science Intern
+**Jul 2023 – Aug 2023**
 
-- 🔄 Designed Python ETL workflows standardizing **4 operational data sources**
-- 📉 Reduced manual data handling by **~30%** through automated pipelines
-- 📋 Built **2 Power BI dashboards + 3 Excel reports** used by **10+ ops staff**
-- ✅ Added validation checks to ETL — caught upstream issues before they hit reports
+- Gathered and prioritized requirements from operations stakeholders to build SQL and Python data-cleaning pipelines across four data sources
+- Streamlined ETL processes, cutting manual data handling by **30%** and enabling more scalable analytics workflows
+- Built interactive Tableau and Excel dashboards adopted by **10+ staff**, reducing ad hoc reporting requests by **25%**
 
 </td>
 </tr>
@@ -111,32 +108,33 @@ class HarshkumarPatel:
 
 ## 🚀 Featured Projects
 
-### 🏦 Customer Churn Analytics Platform
-> End-to-end churn analytics on **Databricks Medallion Architecture**
+### Vendor Performance Analysis
+> Python + SQL analytics pipeline for vendor profitability
 
-- Processed **100K+ banking records** through Bronze → Silver → Gold layers using PySpark
-- Built churn risk scoring with **Window Functions & CTEs** to segment by engagement & tenure
-- Power BI dashboards surfacing retention insights — reduced time-to-insight from weekly to **on-demand**
-- Identified early-tenure & low-engagement cohorts as primary churn risk groups
-
----
-
-### 🛡️ Financial Fraud Detection & Risk Analytics
-> Fraud scoring system on **Snowflake** analyzing 1M+ transactions
-
-- Architected dimensional model: `fact_transactions`, `dim_customer`, `dim_merchant`
-- Built **dbt transformation pipelines** with schema tests, data quality validation & documented lineage
-- SQL-based fraud scoring logic using **Window Functions + conditional rules** across merchant & customer dimensions
-- Power BI dashboards visualizing fraud patterns to prioritize investigation queues for risk teams
+- Identified **$2.71M** in dead stock and a **65.7%** vendor concentration risk, surfacing actionable supply-chain and pricing recommendations
+- Built an end-to-end analytics pipeline in SQL and Python, aggregating 10,692 vendor-brand records into a query-ready dataset
+- Validated a 10-point profit margin gap between high- and low-volume vendors using Welch's t-test (p < 0.001)
+- Presented findings via an interactive Power BI dashboard and formatted business report for procurement stakeholders
 
 ---
 
-### 📦 Vendor Performance Analytics
-> Python + SQL ETL pipeline across 3+ vendor data sources
+### Bank Customer Churn Analytics
+> End-to-end churn analytics on Databricks Medallion Architecture
 
-- Standardized vendor data ingestion — reduced data prep time by **~50%**
-- Statistical **anomaly detection** to flag SLA breaches before client impact
-- Power BI KPI scorecards & SLA tracking adopted by procurement team for monthly vendor reviews
+- Delivered an interactive Power BI executive dashboard with dynamic slicers and automated monthly scorecards, helping stakeholders prioritize retention for **14,400** churned customers
+- Wrote advanced Spark SQL analytics (CTEs, window functions) across 8 Gold KPI tables to segment an **18%** churn rate by province, age group, and activity status
+- Built 5 PySpark behavioral features, including a custom churn risk label, surfacing a high-churn segment missed by the bank's existing risk model
+- Engineered an end-to-end Medallion Architecture pipeline (Bronze/Silver/Gold) on Databricks, transforming 80,000 raw banking records into a Delta Lake Star Schema
+
+---
+
+### Financial Fraud Detection & Risk Analytics
+> Fraud scoring system on Snowflake analyzing 1M+ transactions
+
+- Built Power BI dashboards with automated weekly/monthly scorecards to surface fraud patterns and high-risk clusters for risk and operations teams
+- Engineered SQL-based fraud scoring logic using window functions and conditional rules to classify transaction risk levels
+- Designed a fraud-detection analytics system on Snowflake using a dimensional model (`fact_transactions`, `dim_customer`, `dim_merchant`) to analyze 1M+ transactions
+- Built dbt transformation pipelines with documented lineage and schema tests, converting raw transaction data into analytics-ready layers
 
 ---
 
@@ -145,17 +143,17 @@ class HarshkumarPatel:
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│  🎓 Master of Applied Computing (MAC)                               │
-│     University of Windsor, Canada        GPA: 8.1 / 10             │
-│     Jan 2025 – Apr 2026                                             │
-│     Coursework: Data Analytics, Database Systems, Data Mgmt         │
-├─────────────────────────────────────────────────────────────────────┤
-│  🎓 Bachelor of Computer Science & Engineering                      │
-│     Gujarat Technological University     GPA: 8.61 / 10 (3.4/4.0) │
-│     Jul 2020 – Apr 2024                                             │
-│     Coursework: DBMS, Data Structures, OOP                          │
-└─────────────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────────────────┐
+│ Master of Applied Computing (MAC)                                     │
+│   University of Windsor, Canada  |  GPA: 8.1 / 10                     │
+│   Jan 2025 - Apr 2026  |  Windsor, ON                                 │
+│   Coursework: Data Analytics, Database Systems, Data Mgmt Systems     │
+├───────────────────────────────────────────────────────────────────────┤
+│ Bachelor of Computer Science & Engineering                            │
+│   Gujarat Technological University  |  GPA: 8.61 / 10 (3.4/4.0)       │
+│   Jul 2020 - Apr 2024  |  Vadodara, India                             │
+│   Coursework: DBMS, Data Structures, OOP                              │
+└───────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -166,11 +164,9 @@ class HarshkumarPatel:
 
 <div align="center">
 
-![Pandas](https://img.shields.io/badge/Pandas%20Fundamentals-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL%20Fundamentals-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM%20What%20is%20Data%20Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B%20Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SWE](https://img.shields.io/badge/Advanced%20SWE%20Virtual%20Experience-343434?style=for-the-badge&logo=codewars&logoColor=white)
+![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics%20Professional%20Cert-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google%20AI%20Professional%20Cert-34A853?style=for-the-badge&logo=google&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </div>
 
@@ -181,14 +177,14 @@ class HarshkumarPatel:
 <div align="center">
 
 ```
-╔══════════════════════════╦════════════════════════════╦══════════════════════════╗
-║   📊 Analytics First     ║   🔧 Engineering Mindset   ║   📣 Stakeholder Focus   ║
-╠══════════════════════════╬════════════════════════════╬══════════════════════════╣
-║  SQL Window Functions    ║  Medallion Architecture    ║  Power BI Storytelling   ║
-║  KPI Dashboard Design    ║  dbt + Snowflake Pipelines ║  Executive Summaries     ║
-║  Churn & Risk Scoring    ║  PySpark Transformations   ║  Cross-team Collaboration║
-║  Trend & Anomaly Detect  ║  Git-based Reproducibility ║  Agile Sprint Delivery   ║
-╚══════════════════════════╩════════════════════════════╩══════════════════════════╝
+╔═════════════════════════╦═════════════════════════╦═════════════════════════╗
+║     Analytics First     ║    Stakeholder Focus    ║   Engineering Mindset   ║
+╠═════════════════════════╬═════════════════════════╬═════════════════════════╣
+║   SQL Window Functions  ║    Power BI & Tableau   ║  Medallion Architecture ║
+║   KPI Dashboard Design  ║   Executive Summaries   ║     dbt + Snowflake     ║
+║   Churn & Risk Scoring  ║    Cross-team Collab.   ║    PySpark Transforms   ║
+║  Trend & Anomaly Detect ║  Agile Sprint Delivery  ║   Git Reproducibility   ║
+╚═════════════════════════╩═════════════════════════╩═════════════════════════╝
 ```
 
 </div>
@@ -197,10 +193,11 @@ class HarshkumarPatel:
 
 <div align="center">
 
-### 💬 Let's Connect & Build Something Data-Driven!
+### Let's Connect & Build Something Data-Driven
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshpatel-in)
-[![Email](https://img.shields.io/badge/Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshpatel.24.work@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-64B5F6?style=for-the-badge&logo=firefox&logoColor=white)](https://theharshpatel.in)
+[![Email](https://img.shields.io/badge/Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patel97c@uwindsor.ca)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
 
