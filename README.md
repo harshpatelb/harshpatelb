@@ -95,26 +95,30 @@ class HarshkumarPatel:
 <tr>
 <td width="50%" valign="top">
 
-### Digital Cruze — Data Science Intern
-**Jan 2024 – Apr 2024**
+### 7Hill CyberWall — Junior Data Analyst
 
-- Gathered and documented data requirements from stakeholders to design Python-based ETL workflows, reducing manual effort by **40%** and cutting report turnaround from 4 hours to under 30 minutes
-- Refactored SQL queries using CTEs and query restructuring, improving data extraction performance by **50%**
-- Partnered with cross-functional teams to translate business needs into interactive Power BI and Excel dashboards, automating report generation
+**Jan 2024 – Apr 2025**
+
+* Cleaned and transformed client assessment and compliance data using **SQL, Python (Pandas), Excel, and Power Query**, preparing analysis-ready datasets for reporting
+* Built interactive **Power BI dashboards and KPI reports** tracking assessment progress, vulnerability trends, compliance status, and engagement metrics
+* Conducted exploratory and ad hoc analysis to identify **trends, outliers, and data quality issues**, supporting consultant recommendations and client reporting
+* Automated recurring data preparation and reporting workflows using **SQL and Power Query**, improving consistency and reducing manual effort
 
 </td>
 <td width="50%" valign="top">
 
-### Brainy Beam Pvt. Ltd. — Data Science Intern
-**Jul 2023 – Aug 2023**
+### Digital Cruze — Data Science Intern
 
-- Gathered and prioritized requirements from operations stakeholders to build SQL and Python data-cleaning pipelines across four data sources
-- Streamlined ETL processes, cutting manual data handling by **30%** and enabling more scalable analytics workflows
-- Built interactive Tableau and Excel dashboards adopted by **10+ staff**, reducing ad hoc reporting requests by **25%**
+**Sep 2023 – Dec 2023**
+
+* Gathered and documented data requirements from stakeholders to design Python-based ETL workflows, reducing manual effort by **40%** and cutting report turnaround from 4 hours to under 30 minutes
+* Refactored SQL queries using CTEs and query restructuring, improving data extraction performance by **50%**
+* Partnered with cross-functional teams to translate business needs into interactive Power BI and Excel dashboards, automating report generation
 
 </td>
 </tr>
 </table>
+
 
 ---
 
